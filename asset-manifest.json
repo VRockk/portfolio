@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfoliolari/static/css/main.d1b05096.chunk.css",
+    "main.js": "/portfoliolari/static/js/main.36c9c146.chunk.js",
+    "main.js.map": "/portfoliolari/static/js/main.36c9c146.chunk.js.map",
+    "runtime-main.js": "/portfoliolari/static/js/runtime-main.13ff8eb4.js",
+    "runtime-main.js.map": "/portfoliolari/static/js/runtime-main.13ff8eb4.js.map",
+    "static/js/2.50fdd86e.chunk.js": "/portfoliolari/static/js/2.50fdd86e.chunk.js",
+    "static/js/2.50fdd86e.chunk.js.map": "/portfoliolari/static/js/2.50fdd86e.chunk.js.map",
+    "index.html": "/portfoliolari/index.html",
+    "precache-manifest.8a2acb55a61ac06d23076e2a660d89ca.js": "/portfoliolari/precache-manifest.8a2acb55a61ac06d23076e2a660d89ca.js",
+    "service-worker.js": "/portfoliolari/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/portfoliolari/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.50fdd86e.chunk.js.LICENSE": "/portfoliolari/static/js/2.50fdd86e.chunk.js.LICENSE",
+    "static/media/logo.svg": "/portfoliolari/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13ff8eb4.js",
+    "static/js/2.50fdd86e.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.36c9c146.chunk.js"
+  ]
+}
